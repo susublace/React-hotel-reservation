@@ -62,7 +62,6 @@ function HRBooking() {
             return new Date(e.date);
           })
         );
-        console.log(data.data);
       });
   };
 
