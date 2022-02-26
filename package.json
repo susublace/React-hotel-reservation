@@ -1,5 +1,6 @@
 {
   "name": "hotel-reservation",
+  "homepage": "https://susublace.github.io/React-hotel-reservation/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {

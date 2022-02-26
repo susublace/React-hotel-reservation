@@ -23,7 +23,10 @@ function App() {
   return (
     <>
       <Routes>
-        <Route path="/" element={<HRContainer datas={datas} />} />
+        <Route
+          path="/React-hotel-reservation/"
+          element={<HRContainer datas={datas} />}
+        />
         <Route path="/room/:id" element={<HRBooking />} />
       </Routes>
     </>
