@@ -5,7 +5,7 @@ function Header({ dataImgs }) {
   return (
     <header className="room-header">
       <div>
-        <Link to="https://susublace.github.io/React-hotle-reservation">
+        <Link to="/">
           <img src={WhiteSpaceLogo} className="room-header-logo" />
         </Link>
       </div>
