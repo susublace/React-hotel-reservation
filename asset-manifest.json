@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/React-hotel-reservation/static/css/main.6526fb20.css",
+    "main.js": "/React-hotel-reservation/static/js/main.0f47d187.js",
+    "static/js/787.d484d515.chunk.js": "/React-hotel-reservation/static/js/787.d484d515.chunk.js",
+    "static/media/logo_white.svg": "/React-hotel-reservation/static/media/logo_white.b03bba7e90cc9624896a52d8eea8423a.svg",
+    "static/media/logo_block.svg": "/React-hotel-reservation/static/media/logo_block.3eb687163b607563497cc31779f5f362.svg",
+    "static/media/no-smoke-symbol.svg": "/React-hotel-reservation/static/media/no-smoke-symbol.e12fdb43b21ec48251f97daa28f60d0f.svg",
+    "static/media/room_service.svg": "/React-hotel-reservation/static/media/room_service.3f3c785c72ef255002bf5b13046558e4.svg",
+    "static/media/breeze.svg": "/React-hotel-reservation/static/media/breeze.e52a35248b1eb2e96dae0102088fa433.svg",
+    "static/media/dog.svg": "/React-hotel-reservation/static/media/dog.8273a0214f5ff1279879fcdddcef3d84.svg",
+    "static/media/breakfast.svg": "/React-hotel-reservation/static/media/breakfast.41eb3ce83b3e1ce5b0f49b8f95ac8dc3.svg",
+    "static/media/bar.svg": "/React-hotel-reservation/static/media/bar.3ff875fd7f2a1506afe5db6c3636044a.svg",
+    "index.html": "/React-hotel-reservation/index.html",
+    "static/media/crawling-baby-silhouette.svg": "/React-hotel-reservation/static/media/crawling-baby-silhouette.3ae519a21ed82bb58ccf0cf52236ee04.svg",
+    "static/media/instagram-brands.svg": "/React-hotel-reservation/static/media/instagram-brands.9b8d42a07ca250ef882e1466adac20aa.svg",
+    "static/media/wifi.svg": "/React-hotel-reservation/static/media/wifi.7216bbae78a5c16ad4905401b6f65bfb.svg",
+    "static/media/mountain-range.svg": "/React-hotel-reservation/static/media/mountain-range.8a57c7e1751169e80c836ba113e070c6.svg",
+    "static/media/home-solid.svg": "/React-hotel-reservation/static/media/home-solid.213029c6eaff19669ed5893f246849a5.svg",
+    "static/media/envelope-solid.svg": "/React-hotel-reservation/static/media/envelope-solid.cd047432d73f0e506a8ae00fe29775ee.svg",
+    "static/media/facebook-square-brands.svg": "/React-hotel-reservation/static/media/facebook-square-brands.38c6b4e5a1568d1aa181dd4ff5b08e05.svg",
+    "static/media/phone-alt-solid.svg": "/React-hotel-reservation/static/media/phone-alt-solid.d2ab2513c5e452cfe15decbf8b51e1e3.svg",
+    "main.6526fb20.css.map": "/React-hotel-reservation/static/css/main.6526fb20.css.map",
+    "main.0f47d187.js.map": "/React-hotel-reservation/static/js/main.0f47d187.js.map",
+    "787.d484d515.chunk.js.map": "/React-hotel-reservation/static/js/787.d484d515.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6526fb20.css",
+    "static/js/main.0f47d187.js"
+  ]
+}
