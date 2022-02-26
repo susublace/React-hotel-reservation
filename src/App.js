@@ -1,24 +1,32 @@
-import logo from './logo.svg';
-import './App.css';
+import { useState, useEffect } from "react";
+import "./App.css";
+import "react-datepicker/dist/react-datepicker.css";
+import HRBooking from "./views/HRBooking";
+import HRContainer from "./views/HRContainer";
+import { Routes, Route } from "react-router-dom";
 
 function App() {
+  const [datas, setDatas] = useState([]);
+
+  useEffect(() => {
+    fetch("https://challenge.thef2e.com/api/thef2e2019/stage6/rooms", {
+      headers: {
+        AUTHORIZATION: `Bearer gDA5B5AOsQDH7rae1DTL7a8TajjUIyKcFZNTW4HHVmTREkBU1vLcT8IW9Szf`,
+        "Content-Type": "application/json",
+      },
+      method: "GET",
+    })
+      .then((res) => res.json())
+      .then((data) => setDatas(data.items));
+  }, []);
+
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <>
+      <Routes>
+        <Route path="/" element={<HRContainer datas={datas} />} />
+        <Route path="/room/:id" element={<HRBooking />} />
+      </Routes>
+    </>
   );
 }
 
