@@ -2,7 +2,7 @@
 
 ### Demo : https://susublace.github.io/React-hotle-reservation/
 
-### UI design by {edith.hsu}(https://challenge.thef2e.com/user/1600)
+### UI design by [edith.hsu](https://challenge.thef2e.com/user/1600)
 挑戰 {精神時光屋} (https://challenge.thef2e.com/) 的第六關。
 
 使用React Hooks製作。
