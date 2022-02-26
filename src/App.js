@@ -23,10 +23,7 @@ function App() {
   return (
     <>
       <Routes>
-        <Route
-          path="https://susublace.github.io/React-hotle-reservation"
-          element={<HRContainer datas={datas} />}
-        />
+        <Route path="/" element={<HRContainer datas={datas} />} />
         <Route path="/room/:id" element={<HRBooking />} />
       </Routes>
     </>
