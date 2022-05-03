@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/React-hotel-reservation/static/css/main.6526fb20.css",
+    "main.css": "/React-hotel-reservation/static/css/main.e9d0e5f6.css",
     "main.js": "/React-hotel-reservation/static/js/main.247412de.js",
     "static/js/787.d484d515.chunk.js": "/React-hotel-reservation/static/js/787.d484d515.chunk.js",
     "static/media/logo_white.svg": "/React-hotel-reservation/static/media/logo_white.b03bba7e90cc9624896a52d8eea8423a.svg",
@@ -20,12 +20,12 @@
     "static/media/envelope-solid.svg": "/React-hotel-reservation/static/media/envelope-solid.cd047432d73f0e506a8ae00fe29775ee.svg",
     "static/media/facebook-square-brands.svg": "/React-hotel-reservation/static/media/facebook-square-brands.38c6b4e5a1568d1aa181dd4ff5b08e05.svg",
     "static/media/phone-alt-solid.svg": "/React-hotel-reservation/static/media/phone-alt-solid.d2ab2513c5e452cfe15decbf8b51e1e3.svg",
-    "main.6526fb20.css.map": "/React-hotel-reservation/static/css/main.6526fb20.css.map",
+    "main.e9d0e5f6.css.map": "/React-hotel-reservation/static/css/main.e9d0e5f6.css.map",
     "main.247412de.js.map": "/React-hotel-reservation/static/js/main.247412de.js.map",
     "787.d484d515.chunk.js.map": "/React-hotel-reservation/static/js/787.d484d515.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.6526fb20.css",
+    "static/css/main.e9d0e5f6.css",
     "static/js/main.247412de.js"
   ]
 }
